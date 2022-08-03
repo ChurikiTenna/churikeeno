@@ -1,3 +1,3 @@
 # FoodDiaryWebsite
 
- https://churikitenna.github.io/FoodDiaryWebsite/
+ https://churikitenna.github.io/churikeeno/
